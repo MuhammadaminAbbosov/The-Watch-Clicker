@@ -87,6 +87,10 @@
     padding: 11px 28px;
     background-color: #13AE92;
     color: white;
+
+    &:hover {
+        box-shadow: 1px 1px 10px rgb(99, 98, 98);
+    }
 }
 
 

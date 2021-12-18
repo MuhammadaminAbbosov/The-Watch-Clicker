@@ -272,6 +272,11 @@ a {
   color: white;
 }
 
+.btn:hover {
+  -webkit-box-shadow: 1px 1px 10px #636262;
+          box-shadow: 1px 1px 10px #636262;
+}
+
 .back_sec-1 {
   position: absolute;
   bottom: 0;
