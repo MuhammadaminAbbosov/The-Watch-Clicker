@@ -5,5 +5,11 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
+    font-style: normal;
 }
-@import "./sections/section-4"
+
+a {
+    text-decoration: none;
+}
+@import "./sections/section-4";
+@import "./sections/section-1";
