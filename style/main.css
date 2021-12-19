@@ -498,11 +498,17 @@ a {
 }
 
 .section-5 {
+  position: relative;
   width: 100%;
+
   height: 472px;
   background: #e6fffa;
   padding: 111px 230px;
   position: relative;
+
+  height: 948px;
+  overflow: hidden;
+
 }
 
 @media (max-width: 1430px) {
@@ -619,6 +625,7 @@ a {
 
 .section-5 .center-space .center-space-img img {
   position: absolute;
+
   left: 60%;
   bottom: 0;
 }
@@ -652,6 +659,11 @@ a {
   .section-5 .center-space .center-space-img img {
     display: none;
   }
+
+  width: 500px;
+  right: 0px;
+  bottom: 300px;
+
 }
 
 footer {
@@ -778,6 +790,7 @@ footer .footer-line div {
   width: 70%;
   border: 1px solid #FFFFFF;
 }
+
 
 @media (max-width: 1360px) {
   footer .footer-line div {
