@@ -382,7 +382,7 @@ a {
   position: absolute;
   width: 500px;
   right: 0px;
-  top: 0px;
+  bottom: 300px;
 }
 
 .section-5 footer {
